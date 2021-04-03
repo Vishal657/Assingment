@@ -1,10 +1,10 @@
 package AshishSir_Assingment;
 
+import java.lang.Math;
 import java.util.*;
 
-public class Convert {
+public class Power_6 {
   public static void main(String[] args) {
-    double x = 100.235;
-    System.out.println((int) x);
+    System.out.println(Math.pow(7, 5));
   }
 }

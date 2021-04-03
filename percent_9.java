@@ -2,7 +2,7 @@ package AshishSir_Assingment;
 
 import java.util.*;
 
-public class percent {
+public class percent_9 {
     public static void main(String[] args) {
         int a = 78;
         int b = 45;

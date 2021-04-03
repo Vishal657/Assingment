@@ -2,7 +2,7 @@ package AshishSir_Assingment;
 
 import java.util.*;
 
-public class Test {
+public class Test_4 {
     public static void main(String[] args) {
         double x = 2345;
         x = x + 8;

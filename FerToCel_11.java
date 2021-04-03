@@ -1,6 +1,6 @@
 package AshishSir_Assingment;
 
-public class FerToCel {
+public class FerToCel_11 {
       public static void main(String args[]) {
             float f, c;
             f = 43;

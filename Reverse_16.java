@@ -1,5 +1,5 @@
 package AshishSir_Assingment;
-public class Reverse{ 
+public class Reverse_16{ 
 public static void main(String[] args){
     int n, first, second, third, reverse;
     

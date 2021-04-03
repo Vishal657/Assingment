@@ -1,6 +1,6 @@
 package AshishSir_Assingment;
 import java.util.*;
-public class Sum{
+public class Sum_13{
   
   public static void main(String[] args){
     int n, first, second, third, forth, fifth, sum;

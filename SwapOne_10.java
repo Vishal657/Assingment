@@ -1,5 +1,5 @@
 package AshishSir_Assingment;
-public class SwapOne{
+public class SwapOne_10{
    public static void main(String [] args){
      int a, b;
       a = 6; 
